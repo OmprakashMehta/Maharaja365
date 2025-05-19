@@ -25,7 +25,7 @@ function App() {
     </div>
 
     {/* Button inside overlay but below the text */}
-    <a href="https://wa.me/918409983132?text=Hii.%20I%20Want%20Cricket%20ID" className="cta-button large-btn">Get Your !D Now</a>
+    <a href="https://wa.me/918409983132?text=Hii.%20I%20Want%20Cricket%20ID" className="cta-button large-btn">Join Us Today</a>
   </div>
 </header>
   </a>
@@ -45,7 +45,7 @@ function App() {
                 We provide best fantasy sports ID to our players who want to play games with their skills.
               </a>
             </p>
-            <a href="https://wa.me/918409983132?text=Hii.%20I%20Want%20Cricket%20ID" className="cta-button">Get Your ID Now</a>
+            <a href="https://wa.me/918409983132?text=Hii.%20I%20Want%20Cricket%20ID" className="cta-button">Get Started</a>
           </div>
           <div className="feature-box">
             <img src="./image/laptop-user-icon.png" alt="User on Laptop" />
@@ -59,7 +59,7 @@ function App() {
                 We are working in this field since 2011, so we have much more experience than newcomers.
               </a>
             </p>
-            <a href="https://wa.me/918409983132?text=Hii.%20I%20Want%20Cricket%20ID" className="cta-button">Get Your ID Now</a>
+            <a href="https://wa.me/918409983132?text=Hii.%20I%20Want%20Cricket%20ID" className="cta-button">Get Started</a>
           </div>
           <div className="feature-box">
             <img src="./image/high-security-icon.png" alt="High Security" />
@@ -73,7 +73,7 @@ function App() {
                 Security is our top priority and your data is safe with us and never shared.
               </a>
             </p>
-            <a href="https://wa.me/918409983132?text=Hii.%20I%20Want%20Cricket%20ID" className="cta-button">Get Your ID Now</a>
+            <a href="https://wa.me/918409983132?text=Hii.%20I%20Want%20Cricket%20ID" className="cta-button">Get Started</a>
           </div>
           
         </section>
@@ -90,7 +90,7 @@ function App() {
               For any queries, emergencies, feedback or complaints, we are here to help you 24/7.
             </a>
           </p>
-          <a href="https://wa.me/918409983132?text=Hii.%20I%20Want%20Cricket%20ID" className="cta-button" style={{ textDecoration: 'none' }}>GET INSTANT ID NOW</a>
+          <a href="https://wa.me/918409983132?text=Hii.%20I%20Want%20Cricket%20ID" className="cta-button" style={{ textDecoration: 'none' }}>Start Your Journey</a>
         </section>
         
         <div className="legal-section">
